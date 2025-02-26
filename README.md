@@ -1,6 +1,6 @@
 # Monad NFT Minter
 
-Este é um script em Python para mintar NFTs na Monad Testnet na Magic Eden (ME). Ele permite que o usuário realize um Mint de NFT na ME por meio de contrato, sem necessitar de acessar a interface da ME.
+Este é um script em Python para mintar NFTs na Monad Testnet na Magic Eden (ME) diretamente pelo smart contract, sem necessitar de acessar a interface da ME.
 
 ## Funcionalidades
 - Carregamento seguro de credenciais a partir de um arquivo keystore.
