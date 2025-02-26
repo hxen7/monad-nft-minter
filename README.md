@@ -1,6 +1,6 @@
 # Monad NFT Minter
 
-Este é um script em Python para mintar NFTs na Monad Testnet utilizando a biblioteca `web3.py`. Ele permite que o usuário carregue uma chave privada a partir de um arquivo keystore e envie uma transação para um contrato específico na rede Monad Testnet.
+Este é um script em Python para mintar NFTs na Monad Testnet na Magic Eden utilizando a biblioteca `web3.py`. Ele permite que o usuário carregue uma chave privada a partir de um arquivo keystore e envie uma transação para um contrato específico na rede Monad Testnet.
 
 ## Funcionalidades
 - Carregamento seguro de credenciais a partir de um arquivo keystore.
